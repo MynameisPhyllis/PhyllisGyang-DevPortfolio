@@ -1,0 +1,6 @@
+1.	Describe when you would use a choropleth map versus a proportional symbol map versus a dot density map.
+Choropleth maps are best when you have data that is tied to enumeration units and is uniformly distributed across that enumeration unit, and data is standardized. Proportional symbols are best when you have data focused on a precise area (ex. a city) rather than a larger broader area, and the data can be raw or standardized. Dot density maps are best when for spatial phenomenon that is not uniformly distributed across an enumeration unit, data can be raw or standardized.
+
+2.	In your own words, describe what the ggplot2 library does in R and why it might be more useful than the ‘mf_map’ function in mapsf library. 
+The ggplot library allows us to graph and map a variety of plots, ranging from simple data analysis to complex spatial maps. It may be more useful than mf_map simply because of the possibilities. The mf_map library lets you plot in a spatial context, but ggplot lets you go beyond that and allows for so much more customization of our display. 
+
